@@ -1,1 +1,5 @@
+# Digital Signatures
+Digital signatures are cryptographic tools that ensure the authenticity, integrity, and non-repudiation of digital data. In blockchain, each transaction is signed by the sender using their private key. Other network participants can then verify the signature using the sender’s public key. This ensures that only the rightful owner can initiate a transaction and that the data has not been altered during transmission. Digital signatures are fundamental to preventing fraud and maintaining trust in decentralized systems.
 
+### Real-Life Examples:
+In Bitcoin and Ethereum, digital signatures authorize transactions and ensure that only the account owner can spend the associated funds. Blockchain-based document verification platforms, such as DocuSign and Adobe Sign, use digital signatures to guarantee the authenticity of contracts and legal documents, providing a secure alternative to traditional paper-based signatures. This shows that digital signatures are not only critical for financial security but also for legal and business applications.
