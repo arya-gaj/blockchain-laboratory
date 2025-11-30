@@ -1,1 +1,2 @@
-
+# Introduction
+An Ethereum wallet is a software tool that allows users to store, send, and receive Ether (ETH) and interact with decentralized applications on the blockchain. One of the most widely used Ethereum wallets is MetaMask, which is available as a browser extension and mobile app. MetaMask does not store cryptocurrency itself; instead, it manages the user’s public key (wallet address) and private key needed to sign transactions securely. It also provides an easy-to-use interface for connecting to Ethereum networks such as Mainnet, testnets (Goerli, Sepolia), and custom local networks like Ganache. MetaMask is commonly used in real-world applications like decentralized finance (DeFi), NFT marketplaces, and Web3 login systems.
