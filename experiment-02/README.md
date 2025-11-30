@@ -1,1 +1,2 @@
-
+# Introduction
+As blockchain technology becomes increasingly important in real-world applications such as digital payments, supply chain tracking, decentralized finance (DeFi), and NFTs, developers need reliable tools to build and test smart contracts efficiently. Ethereum development commonly uses three major tools—Remix, Truffle, and Ganache—which together form a complete environment for writing, compiling, testing, debugging, and deploying smart contracts before sending them to live networks. Understanding how these tools work is essential for modern blockchain-based application development.
