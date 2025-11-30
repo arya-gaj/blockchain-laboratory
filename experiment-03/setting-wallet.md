@@ -1,1 +1,2 @@
-
+# Setting Wallet
+To set up MetaMask, the user installs the extension from the official website and selects the option to create a new wallet. MetaMask then generates a 12-word Secret Recovery Phrase, which serves as the master backup for the wallet. This phrase must be written down and stored safely, as it can restore the wallet on any device. After confirming the recovery phrase, MetaMask creates the wallet and displays a public Ethereum address (starting with “0x…”), which can be shared to receive funds. The user can also switch between different networks such as Ethereum Mainnet, testnet chains, and custom RPC networks. Once set up, the wallet is ready to perform transactions.
