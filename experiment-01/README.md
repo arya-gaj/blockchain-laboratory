@@ -1,1 +1,2 @@
-
+# Blockchain Foundations
+Blockchain is a distributed digital ledger that records transactions in a secure, immutable, and transparent way. Unlike traditional centralized systems, blockchain operates on a network of computers called nodes, which collectively maintain the ledger. Its foundation is built upon distributed computing, cryptography, and digital signatures, each playing a crucial role in ensuring security, transparency, and reliability. Understanding these concepts is key to grasping how blockchain functions in real-world applications.
