@@ -1,1 +1,2 @@
-
+# Introduction
+Solidity is a contract-oriented programming language used to write smart contracts on the Ethereum blockchain. It is statically typed and influenced by languages like JavaScript, C++, and Python. Solidity allows developers to define contract logic that runs in the Ethereum Virtual Machine (EVM), enabling decentralized applications (DApps) such as tokens, voting systems, marketplaces, and financial protocols. To build secure smart contracts, it is important to understand how a Solidity program is structured, how it is compiled into EVM bytecode, and how it is deployed using tools like Remix, Truffle, and Ganache.
