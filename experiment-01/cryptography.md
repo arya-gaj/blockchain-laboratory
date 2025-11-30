@@ -1,1 +1,5 @@
+# Elements of Cryptography
+Cryptography is the science of securing information and ensuring that data cannot be altered or accessed by unauthorized parties. Blockchain leverages cryptography to maintain the integrity and confidentiality of transactions. A central component is the use of hash functions, which convert data into a fixed-length string called a hash. Even a minor change in the data produces a completely different hash, enabling tamper detection. Blockchain also employs asymmetric cryptography, where a public key is used to verify data, and a private key is used to sign it.
 
+### Real-Life Examples:
+Bitcoin uses hash functions to link blocks together, making it virtually impossible to modify historical transactions without detection. Secure messaging applications like WhatsApp and Signal use encryption techniques similar to blockchain’s cryptography to ensure private communication. Additionally, NFT ownership verification on platforms like Ethereum relies on cryptographic signatures to prove authenticity and prevent fraud, demonstrating how cryptography extends beyond financial transactions to digital assets.
