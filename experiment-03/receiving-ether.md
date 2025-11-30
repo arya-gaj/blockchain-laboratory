@@ -1,1 +1,2 @@
-
+# Receiving Ether
+Receiving Ether in MetaMask is simple. The user opens the wallet and copies their public Ethereum address, which is safe to share because it only identifies where the Ether should be sent. This address can be shared with another wallet user or pasted into an exchange like Binance or Coinbase when withdrawing funds. After the sender initiates the transfer, the transaction is broadcast to the Ethereum network. MetaMask automatically monitors the blockchain and updates the balance once the transaction is confirmed. Users can also check the transaction status using Etherscan by entering the transaction hash. This process makes MetaMask a convenient tool for receiving payments, transferring funds, and interacting with blockchain-based services.
