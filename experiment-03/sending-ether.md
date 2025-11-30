@@ -1,1 +1,2 @@
-
+# Sending Ether
+To send Ether using MetaMask, the user clicks on the “Send” button in the wallet interface. They enter the recipient’s Ethereum address and specify the amount of Ether to transfer. MetaMask also allows the user to adjust the gas fee, which determines how fast the transaction will be processed by the Ethereum network. Higher gas fees result in faster confirmations. After reviewing the details, the user clicks “Confirm,” and MetaMask signs the transaction using the private key stored locally on the device. The transaction is then broadcast to the blockchain, and its status can be viewed through a transaction hash on Etherscan. Once confirmed, the Ether is successfully transferred to the recipient.
