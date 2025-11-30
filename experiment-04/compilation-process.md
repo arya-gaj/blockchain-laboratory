@@ -1,1 +1,2 @@
-
+# Compilation Process
+Once a Solidity program is written, it needs to be compiled into bytecode so the EVM can execute it. The Solidity compiler (solc) converts the human-readable Solidity code into two outputs: EVM bytecode (the machine-level instructions stored on the blockchain) and ABI (Application Binary Interface), which defines how external applications interact with the contract. Modern environments like Remix automatically compile code whenever it changes, while frameworks like Truffle use configuration files (truffle-config.js) to compile multiple contracts in a structured project. Compilation also performs static analysis, checks for errors, and warns developers about potential security issues. The result of compilation is what gets deployed to the network.
