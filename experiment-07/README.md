@@ -1,1 +1,4 @@
+# Introduction
+This program demonstrates a simple use of dynamic arrays in Solidity by storing and managing a list of integers. The array is initialized in the constructor with preset values 1,2,3,4,5, and because it is declared as public, Solidity automatically generates a getter that allows users to access individual elements. The getArray() function returns the entire array in memory, making it easy for external callers to view all stored values at once.
 
+Additionally, the getArrayLength() function returns the total number of elements currently inside the array. This highlights how Solidity handles dynamic arrays, allowing developers to retrieve both the full array and its size using simple view functions. The contract serves as a clean example of array initialization, storage, and length retrieval on the Ethereum blockchain.
