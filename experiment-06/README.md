@@ -1,1 +1,4 @@
+# Introduction
+This program demonstrates a simple and modular approach to handling Ether transfers in Solidity by separating the sending and receiving logic into two standalone contracts. Receiver.sol is designed only to accept Ether through its receive() function, automatically updating its internal balance each time funds are sent to it. It also provides a getBalance() function so users can easily check how much Ether the contract is currently holding.
 
+In contrast, Sender.sol focuses purely on transferring Ether to any valid payable address. It includes a constructor to set the sender's owner and a sendEther() function that ensures the caller sends a non-zero amount to a valid address before performing the transfer. By separating responsibilities, the project clearly highlights how independent smart contracts can work together to send, receive, and manage Ether on the blockchain in a clean and modular way.
