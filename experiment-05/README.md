@@ -1,1 +1,4 @@
+# Introduction
+This program introduces a modular approach to smart contract design by separating incrementing and decrementing functionalities into two distinct contracts. Increment.sol is dedicated solely to increasing a counter, while Decrement.sol focuses only on decreasing it, with each contract maintaining its own internal count starting from zero. Such a separation promotes clearer logic, simplifies testing, and effectively demonstrates how independent storage operates within the blockchain environment.
 
+For execution, both contracts are deployed independently on the Ethereum Virtual Machine. Users can call increment() on Increment.sol to increase its counter and decrement() on Decrement.sol to decrease its counter. Since the contracts function independently, the state of one does not impact the other, making this a straightforward yet illustrative example of modular smart contract development and isolated state management.
